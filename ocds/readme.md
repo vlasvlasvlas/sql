@@ -2,7 +2,8 @@
 # scripting OCDS Honduras
 from JSON to SQL tables
 SQLSERVER
-Permite una vez descargado el json como nvarchar(max), trasladar de formato json a estructura de tablas conservando la estructura ocds.
+Permite poder trasladar de formato json a estructura de tablas los datos abiertos OCDS descargados en formato json del portal de datos abiertos ONCAE Honduras.
+
 
 doc helpers del formato para la extracción:
 
