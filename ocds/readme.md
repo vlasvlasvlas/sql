@@ -1,11 +1,12 @@
 
 # scripting OCDS Honduras
-from JSON to SQL tables
-SQLSERVER
+
+From JSON to SQL Server tables.
+
 Permite poder trasladar de formato json a estructura de tablas los datos abiertos OCDS descargados en formato json del portal de datos abiertos ONCAE Honduras.
 
 
-doc helpers del formato para la extracción:
+Doc helpers del formato para la extracción:
 
 - https://standard.open-contracting.org/latest/en/schema/reference/
 
